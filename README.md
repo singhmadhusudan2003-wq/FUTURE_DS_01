@@ -40,6 +40,37 @@ The deliverable is designed to look and function like a real client engagement: 
 
 ---
 
+## 🛠️ Tech Stack
+
+### Programming Language
+- Python 3.12+
+
+### Data Analysis
+- Pandas
+- NumPy
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+- Plotly
+
+### Report Generation
+- ReportLab
+
+### Development Environment
+- Jupyter Notebook
+- VS Code
+
+### Version Control
+- Git
+- GitHub
+
+### Deployment
+- GitHub Pages
+
+### Documentation
+- Markdown (README)
+
 ## 🗂️ Folder Structure
 
 ```
@@ -58,8 +89,7 @@ FUTURE_DS_01/
 │   ├── dashboard.py                 # Interactive Plotly HTML dashboard builder
 │   └── generate_report.py           # Client-ready PDF report builder
 │
-├── dashboard/
-│   └── interactive_dashboard.html   # Standalone interactive dashboard
+├── index.html   # Standalone interactive dashboard
 │
 ├── reports/
 │   └── Business_Sales_Report.pdf    # Client-ready PDF report
@@ -127,7 +157,7 @@ A cleaned version of the dataset (`sales_data_cleaned.csv`) is also generated du
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/FUTURE_DS_01.git
+git clone https://github.com/singhmadhusudan2003-wq/FUTURE_DS_01.git
 cd FUTURE_DS_01
 
 # 2. (Recommended) create a virtual environment
@@ -136,37 +166,8 @@ source venv/bin/activate      # Windows: venv\Scripts\activate
 
 # 3. Install dependencies
 pip install -r requirements.txt
+
 ```
-## 🛠️ Tech Stack
-
-### Programming Language
-- Python 3.12+
-
-### Data Analysis
-- Pandas
-- NumPy
-
-### Data Visualization
-- Matplotlib
-- Seaborn
-- Plotly
-
-### Report Generation
-- ReportLab
-
-### Development Environment
-- Jupyter Notebook
-- VS Code
-
-### Version Control
-- Git
-- GitHub
-
-### Deployment
-- GitHub Pages
-
-### Documentation
-- Markdown (README)
 
 ## 📦 Requirements
 
@@ -179,10 +180,12 @@ pip install -r requirements.txt
 All pinned in [`requirements.txt`](requirements.txt).
 
 ---
+
+
 ## 🌐 Live Demo
 
-🔗 **Interactive Dashboard:**  
-Live Demo:
+🔗 **Interactive Dashboard**
+
 https://singhmadhusudan2003-wq.github.io/FUTURE_DS_01/
 
 ## 🖥️ Dashboard Preview
@@ -206,8 +209,6 @@ The interactive dashboard provides business KPIs, revenue and profit trends, reg
 
 ![Dashboard](images/dashboard_preview.png)
 
-🔗 **Live Demo:**  
-https://singhmadhusudan2003-wq.github.io/FUTURE_DS_01/
 
 ## ▶️ How to Run
 
@@ -234,24 +235,8 @@ python generate_report.py
 ```
 
 **Option 3 — Just view the outputs directly:**
-- Open [`dashboard/interactive_dashboard.html`](dashboard/interactive_dashboard.html) in any browser for the live interactive dashboard.
+- Open `index.html` in any modern web browser to explore the interactive dashboard.
 - Open [`reports/Business_Sales_Report.pdf`](reports/Business_Sales_Report.pdf) for the full client report.
-
----
-
-## 🖼️ Screenshots
-
-**Monthly Revenue Trend**
-![Revenue Trend](images/revenue_trend.png)
-
-**Sales by Region**
-![Sales by Region](images/sales_by_region.png)
-
-**Top 10 Products**
-![Top Products](images/top_products.png)
-
-**Interactive Dashboard Preview**
-![Dashboard Preview](images/dashboard_preview.png)
 
 ---
 
@@ -293,8 +278,11 @@ This project is licensed under the [MIT License](LICENSE).
 ### Connect with Me
 
 - **GitHub:** https://github.com/singhmadhusudan2003-wq
-- **LinkedIn:** www.linkedin.com/in/madhu-sudhan-a241073b9
-
+- **LinkedIn:** https://www.linkedin.com/in/madhu-sudhan-a241073b9/
 ---
+
+## ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
 
 <p align="center"><i>Built as part of the Future Interns Data Science & Analytics Internship — FUTURE_DS_01</i></p>
