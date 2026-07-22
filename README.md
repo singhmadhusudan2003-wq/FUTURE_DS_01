@@ -80,6 +80,49 @@ FUTURE_DS_01/
 
 ---
 
+## 📂 Dataset
+
+This project uses a **synthetic business sales dataset** containing **12,120 sales transactions** created for data analysis and visualization purposes.
+
+### Dataset Overview
+- **Total Records:** 12,120
+- **Total Features:** 21
+- **Data Type:** Synthetic Business Sales Data
+- **Format:** CSV
+- **File:** `data/sales_data.csv`
+
+### Key Features
+- Order ID
+- Order Date
+- Ship Date
+- Customer ID & Customer Name
+- Segment
+- Country
+- State & City
+- Region
+- Category & Sub-Category
+- Product Name
+- Sales
+- Quantity
+- Discount
+- Profit
+- Shipping Mode
+- Payment Method
+- Sales Representative
+
+### Project Usage
+The dataset is used for:
+
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- KPI Generation
+- Business Insights
+- Interactive Dashboard Development
+- Data Visualization
+- PDF Report Generation
+
+A cleaned version of the dataset (`sales_data_cleaned.csv`) is also generated during preprocessing for further analysis.
+
 ## ⚙️ Installation
 
 ```bash
@@ -94,6 +137,36 @@ source venv/bin/activate      # Windows: venv\Scripts\activate
 # 3. Install dependencies
 pip install -r requirements.txt
 ```
+## 🛠️ Tech Stack
+
+### Programming Language
+- Python 3.12+
+
+### Data Analysis
+- Pandas
+- NumPy
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+- Plotly
+
+### Report Generation
+- ReportLab
+
+### Development Environment
+- Jupyter Notebook
+- VS Code
+
+### Version Control
+- Git
+- GitHub
+
+### Deployment
+- GitHub Pages
+
+### Documentation
+- Markdown (README)
 
 ## 📦 Requirements
 
@@ -109,6 +182,7 @@ All pinned in [`requirements.txt`](requirements.txt).
 ## 🌐 Live Demo
 
 🔗 **Interactive Dashboard:**  
+Live Demo:
 https://singhmadhusudan2003-wq.github.io/FUTURE_DS_01/
 
 ## ▶️ How to Run
@@ -185,8 +259,18 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Future Interns — Data Science & Analytics Intern**
-Internship Program: [Future Interns](https://www.linkedin.com/company/future-interns/)
+## 👤 Author
+
+**Madhu Sudhan**
+
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 💼 Data Science & Analytics Intern at Future Interns
+- 💻 Passionate about Data Science, Machine Learning, AI, and Data Analytics
+
+### Connect with Me
+
+- **GitHub:** https://github.com/singhmadhusudan2003-wq
+- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
 
 ---
 
