@@ -269,7 +269,7 @@ This project is licensed under the [MIT License](LICENSE).
 ### Connect with Me
 
 - **GitHub:** https://github.com/singhmadhusudan2003-wq
-- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
+- **LinkedIn:** www.linkedin.com/in/madhu-sudhan-a241073b9
 
 ---
 
