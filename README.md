@@ -89,7 +89,7 @@ FUTURE_DS_01/
 │   ├── dashboard.py                 # Interactive Plotly HTML dashboard builder
 │   └── generate_report.py           # Client-ready PDF report builder
 │
-├── index.html   # Standalone interactive dashboard
+├── index.html         # Interactive Dashboard (GitHub Pages)
 │
 ├── reports/
 │   └── Business_Sales_Report.pdf    # Client-ready PDF report
@@ -207,7 +207,7 @@ The interactive dashboard provides business KPIs, revenue and profit trends, reg
 
 ### 🖥️ Interactive Dashboard
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](images/dashboard.png)
 
 
 ## ▶️ How to Run
@@ -279,7 +279,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 - **GitHub:** https://github.com/singhmadhusudan2003-wq
 - **LinkedIn:** https://www.linkedin.com/in/madhu-sudhan-a241073b9/
+
 ---
+
+
 
 ## ⭐ Support
 
