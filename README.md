@@ -106,6 +106,10 @@ pip install -r requirements.txt
 All pinned in [`requirements.txt`](requirements.txt).
 
 ---
+## 🌐 Live Demo
+
+🔗 **Interactive Dashboard:**  
+https://singhmadhusudan2003-wq.github.io/FUTURE_DS_01/
 
 ## ▶️ How to Run
 
