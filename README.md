@@ -185,6 +185,30 @@ All pinned in [`requirements.txt`](requirements.txt).
 Live Demo:
 https://singhmadhusudan2003-wq.github.io/FUTURE_DS_01/
 
+## 🖥️ Dashboard Preview
+
+The interactive dashboard provides business KPIs, revenue and profit trends, regional performance, category-wise analysis, and dynamic filters for data exploration.
+
+
+### 📈 Monthly Revenue Trend
+
+![Revenue Trend](images/revenue_trend.png)
+
+### 🌍 Sales by Region
+
+![Sales by Region](images/sales_by_region.png)
+
+### 🏆 Top Products
+
+![Top Products](images/top_products.png)
+
+### 🖥️ Interactive Dashboard
+
+![Dashboard](images/dashboard_preview.png)
+
+🔗 **Live Demo:**  
+https://singhmadhusudan2003-wq.github.io/FUTURE_DS_01/
+
 ## ▶️ How to Run
 
 **Option 1 — Explore the full analysis in Jupyter:**
