@@ -257,7 +257,6 @@ See the [full report](reports/Business_Sales_Report.pdf) for all 10 consolidated
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 👤 Author
 
 ## 👤 Author
 
